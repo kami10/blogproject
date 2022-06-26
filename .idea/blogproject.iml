@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mezzio-skeleton/src/App/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/mezzio-skeleton/test/AppTest" isTestSource="true" packagePrefix="AppTest\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/http-server-middleware" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/psr/http-server-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/fig/http-message-util" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio-template" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio-twigrenderer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-stratigility" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-stdlib" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-cli" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-servicemanager" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-development-mode" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-component-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-code" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-config-aggregator" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/laminas/laminas-httphandlerrunner" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio-helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio-router" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/brick/varexporter" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio-tooling" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/mezzio/mezzio-fastroute" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/webimpress/safe-writer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/mezzio-skeleton/vendor/phpunit/php-code-coverage" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
